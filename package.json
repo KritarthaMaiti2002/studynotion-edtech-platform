@@ -66,9 +66,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "REPLACE_WITH_YOUR_GITHUB_REPOSITORY_URL"
+    "url": "https://github.com/KritarthaMaiti2002/studynotion-edtech-platform.git"
   },
   "engines": {
     "node": ">=16.18.0"
   }
 }
+
